@@ -1,4 +1,4 @@
-### 🚀 I'm currently challenging myself to contribute everyday
+### 🚀
 
 <!--
 **marvincayetano/marvincayetano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
