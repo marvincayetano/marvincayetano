@@ -36,7 +36,7 @@
 
 ## Fun projects
 
-###These projects are mostly for fun and mostly useful for myself
+### These projects are mostly for fun and mostly useful for myself
 
 <table width="100%">
   <thead>
